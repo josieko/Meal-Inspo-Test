@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(230, 221, 210);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh; /* Ensure full viewport height */
+  margin: 0;
+}
+
+h1 {
+  color: rgb(46, 22, 10);
+}
+
+.recipe-button {
+  background-color: rgb(88, 141, 88);
+  border-radius: 12px;
+  border-width: 0;
+  color: white;
+  padding: 8px 18px 8px 18px;
+  border-color: rgb(65, 110, 65);
+  border-style: groove;
+}
